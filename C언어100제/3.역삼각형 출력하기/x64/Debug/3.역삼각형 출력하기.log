@@ -1,1 +1,3 @@
-﻿  3.역삼각형 출력하기.vcxproj -> C:\Users\user\Desktop\git\CStudy\C언어100제\x64\Debug\3.역삼각형 출력하기.exe
+﻿  main.cpp
+C:\Users\user\Desktop\git\CStudy\C언어100제\3.역삼각형 출력하기\main.cpp(15,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  3.역삼각형 출력하기.vcxproj -> C:\Users\user\Desktop\git\CStudy\C언어100제\x64\Debug\3.역삼각형 출력하기.exe
